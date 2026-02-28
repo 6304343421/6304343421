@@ -71,7 +71,7 @@ Power BI • Tableau • Dashboards • Data Storytelling • Excel
 ## 🚀 Featured Projects
 
 
-💰 **Insurance Cost Prediction using Machine Learning
+💰**Insurance Cost Prediction using Machine Learning
 **
 - Built a regression model to predict medical insurance costs.
 - Handled categorical encoding, feature scaling, and outliers.

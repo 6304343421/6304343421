@@ -118,6 +118,10 @@ Power BI • Tableau • Dashboards • Data Storytelling • Excel
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
+  <a href="https://www.naukri.com/mnjuser/profile?id=&altresid">
+      <img src="https://skillicons.dev/icons?i=naukri" />
+  </a>
+
   <a href="mailto:chandrasekhar6304@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
@@ -129,6 +133,7 @@ Power BI • Tableau • Dashboards • Data Storytelling • Excel
   <a href="https://github.com/6304343421">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+  
 </p>
 
 ---
@@ -136,3 +141,4 @@ Power BI • Tableau • Dashboards • Data Storytelling • Excel
 📧 **Email:** chandrasekhar6304@gmail.com  
 📱 **Mobile:** +91 6304343421  
 🔗 **LinkedIn:** [Perumalla Venkata Chandra Sekhar](https://www.linkedin.com/in/perumalla-venkata-chandra-sekhar-2bb594269/)
+   **Naukri:** [Perumalla Venkata Chandra Sekhar](https://www.naukri.com/mnjuser/profile?id=&altresid)

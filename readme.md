@@ -141,4 +141,4 @@ Power BI • Tableau • Dashboards • Data Storytelling • Excel
 📧 **Email:** chandrasekhar6304@gmail.com  
 📱 **Mobile:** +91 6304343421  
 🔗 **LinkedIn:** [Perumalla Venkata Chandra Sekhar](https://www.linkedin.com/in/perumalla-venkata-chandra-sekhar-2bb594269/)
-   **Naukri:** [Perumalla Venkata Chandra Sekhar](https://www.naukri.com/mnjuser/profile?id=&altresid)
+🏢 **Naukri:** [Perumalla Venkata Chandra Sekhar](https://www.naukri.com/mnjuser/profile?id=&altresid)

@@ -54,10 +54,15 @@ Power BI • Tableau • Dashboards • Data Storytelling • Excel
 ## 📜 Certifications
  
 🏅 Data Science Certificate – NASSCOM and FutureSkills Prime, Govt. of India
+
 🏅 IABAC Certified Data Scientist, IABAC Data Science Foundation
+
 🏅 Data Analytics and Visualization: Accenture Certified. Work simulating with Power BI and Excel.
+
 🏅 Microsoft Azure AI Fundamentals (AI-900) Certified by Microsoft.
+
 🏅 High Performance competitive coding from IamNeo
+
 🏅 Next Gen Cloud, Core Team Member (using Python programming language).
 
 ---
@@ -66,7 +71,7 @@ Power BI • Tableau • Dashboards • Data Storytelling • Excel
 ## 🚀 Featured Projects
 
 
-💰 **Insurance Cost Prediction using Machine Learning
+💰**Insurance Cost Prediction using Machine Learning
 **
 - Built a regression model to predict medical insurance costs.
 - Handled categorical encoding, feature scaling, and outliers.

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ChandraSekhar</h1>
+ <h1 align="center">Hi 👋, I'm ChandraSekhar</h1>
 <h3 align="center">Machine Learning | Data Science | Computer Vision</h3>
 
 <p align="center">
@@ -71,7 +71,7 @@ Power BI • Tableau • Dashboards • Data Storytelling • Excel
 ## 🚀 Featured Projects
 
 
-💰**Insurance Cost Prediction using Machine Learning
+💰 **Insurance Cost Prediction using Machine Learning
 **
 - Built a regression model to predict medical insurance costs.
 - Handled categorical encoding, feature scaling, and outliers.
@@ -92,11 +92,11 @@ Power BI • Tableau • Dashboards • Data Storytelling • Excel
 - Improved accuracy with hyperparameter tuning
 
 🛩️ **Flight Fare Prediction using Machine Learning**
--Built models like KNN, Random Forest, and Linear Regression to predict fares.
--Preprocessed data with encoding, scaling, and outlier handling.
+- Built models like KNN, Random Forest, and Linear Regression to predict fares.
+- Preprocessed data with encoding, scaling, and outlier handling.
 - Applied hyperparameter tuning for optimal accuracy.
 - Evaluated models with RMSE, MAE, and R2.
--Technologies/Tools: Python, scikit-learn, Pandas, Matplotlib
+- Technologies/Tools: Python, scikit-learn, Pandas, Matplotlib
 
 ---
 ## 📊 GitHub Stats

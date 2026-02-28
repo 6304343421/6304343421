@@ -9,11 +9,11 @@
 
 
 ## 🚀 About Me
-🎓 Passionate about **Machine Learning & AI**
-📊 Strong in **Data Analysis & Predictive Modeling**
-👁️ Working on **Computer Vision projects**
-🌱 Always learning and improving real-world ML solutions
-🎯 Goal: Become a professional **ML Engineer**
+- 🎓 Passionate about **Machine Learning & AI**
+- 📊 Strong in **Data Analysis & Predictive Modeling**
+- 👁️ Working on **Computer Vision projects**
+- 🌱 Always learning and improving real-world ML solutions
+- 🎯 Goal: Become a professional **ML Engineer**
 
 ---
 
